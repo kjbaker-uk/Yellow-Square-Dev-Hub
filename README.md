@@ -2,10 +2,10 @@
   <img src="images/logo.png" alt="Your Logo" width="500" height="500">
 </p>
 
-<h2 align="left" class= playdate-yellow>❔ About This Repository</h2>
+<h2 align="left" style="color:#FFC500;">❔ About This Repository</h2>
 A handpicked collection of the best tools, tutorials, and libraries for Playdate game development. Aimed at simplifying and enhancing the development process for creators at all levels.
 
-<h2 align="left" class= playdate-yellow>📃 Table of Contents</h2>
+<h2 align="left" style="color:#FFC500;">📃 Table of Contents</h2>
 
 - [Getting Started](#getting-started)
 - [Tutorials](#tutorials)
@@ -156,9 +156,3 @@ I welcome contributions! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for deta
 ---
 
 <h4 align="center" class="playdate-yellow"><em>This repository is a community-driven project and is not officially affiliated with Panic Inc. or the Playdate development team.</em></h4>
-
-<style>
-  .playdate-yellow {
-    color: #FFC500;
-  }
-</style>
