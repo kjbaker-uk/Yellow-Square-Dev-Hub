@@ -111,20 +111,6 @@ A handpicked collection of the best tools, tutorials, and libraries for Playdate
   - **Description**: A tutorial for creating your first simple game on Playdate.
   - **Link**: [First Game Tutorial](link-here)
 
-### Interactive Demos
-- <h2 class=playdate-yellow>Title</h2>
-
-  - ![Language](image-link-here)
-  - **Description**: A tutorial for creating your first simple game on Playdate.
-  - **Link**: [First Game Tutorial](link-here)
-
-### Code Snippets
-- <h2 class=playdate-yellow>Title</h2>
-
-  - ![Language](image-link-here)
-  - **Description**: A tutorial for creating your first simple game on Playdate.
-  - **Link**: [First Game Tutorial](link-here)
-
 ## Updates and News
 - <h2 class=playdate-yellow>Title</h2>
 
