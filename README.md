@@ -22,21 +22,21 @@ A handpicked collection of the best tools, tutorials, and libraries for Playdate
 
   <p align="left"><img src="images/lua_icon.png" alt="lua icon" width="40" height="40"></p>
 
-  - **Title**: Inside Playdate
+  **Title**: Inside Playdate
   - **Description**: The official reference documentation for programming Playdate games.
   - **Creator**: Panic Inc
   - **Link**: [Inside Playdate](https://sdk.play.date/2.1.1/Inside%20Playdate.html#_what_is_playdate)
 
   <p align="left"><img src="images/c_icon.png" alt="c icon" width="40" height="40"></p>
 
-  - **Title**: Inside Playdate
+  **Title**: Inside Playdate
   - **Description**: The official reference documentation for programming Playdate games.
   - **Creator**: Panic Inc
   - **Link**: [Inside Playdate](https://sdk.play.date/2.1.1/Inside%20Playdate%20with%20C.html)
 
   <p align="left"><img src="images/pulp_icon.png" alt="pulp icon" width="40" height="40"></p>
 
-  - **Title**: PulpScript
+  **Title**: PulpScript
   - **Description**: PulpScript is a friendly scripting language that allows you to add interactivity to your Pulp games. Its syntax is terse but powerful.
   - **Creator**: Panic Inc
   - **Link**: [PulpScript](https://play.date/pulp/docs/pulpscript/#goto-general)
@@ -60,21 +60,21 @@ A handpicked collection of the best tools, tutorials, and libraries for Playdate
 ## Tutorials
   <p align="left"><img src="images/lua_icon.png" alt="lua icon" width="40" height="40"></p> 
 
-  - **Title**: PulpScript: A Beginner's Guide
+  **Title**: PulpScript: A Beginner's Guide
   - **Description**: Are you learning to use Pulp for the Playdate but are struggling to wrap your head around PulpScript? I go through the basics of PulpScript in this beginner's guide tutorial, from how PulpScript interacts with the rest of Pulp to programming basics.
   - **Creator**: [SquidGod](https://squidgod.dev/)
   - **Link**: [YouTube](https://www.youtube.com/watch?v=r5GnCjsAqeQ)
 
   <p align="left"><img src="images/c_icon.png" alt="c icon" width="40" height="40"></p> 
 
-  - **Title**: PulpScript: A Beginner's Guide
+  **Title**: PulpScript: A Beginner's Guide
   - **Description**: Are you learning to use Pulp for the Playdate but are struggling to wrap your head around PulpScript? I go through the basics of PulpScript in this beginner's guide tutorial, from how PulpScript interacts with the rest of Pulp to programming basics.
   - **Creator**: [SquidGod](https://squidgod.dev/)
   - **Link**: [YouTube](https://www.youtube.com/watch?v=r5GnCjsAqeQ)
 
   <p align="left"><img src="images/pulp_icon.png" alt="pulp icon" width="40" height="40"></p> 
 
-  - **Title**: PulpScript: A Beginner's Guide
+  **Title**: PulpScript: A Beginner's Guide
   - **Description**: Are you learning to use Pulp for the Playdate but are struggling to wrap your head around PulpScript? I go through the basics of PulpScript in this beginner's guide tutorial, from how PulpScript interacts with the rest of Pulp to programming basics.
   - **Creator**: [SquidGod](https://squidgod.dev/)
   - **Link**: [YouTube](https://www.youtube.com/watch?v=r5GnCjsAqeQ)
