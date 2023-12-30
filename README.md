@@ -18,41 +18,58 @@ A handpicked collection of the best tools, tutorials, and libraries for Playdate
 - [Contact](#contact)
 
 ## Getting Started
-- <h2 style="color:#FFC500;">Introduction to Playdate</h2>
+- <h2 style="color:#FFC500;">Documentation</h2>
 
-  - ![Language](image-link-here)
-  - **Description**: A tutorial for creating your first simple game on Playdate.
-  - **Link**: [First Game Tutorial](link-here)
+  <p align="left"><img src="images/lua_icon.png" alt="lua icon" width="40" height="40"></p>
+
+  - **Title**: Inside Playdate (Lua)
+  - **Description**: The official reference documentation for programming Playdate games.
+  - **Creator**: Panic Inc
+  - **Link**: [Inside Playdate](https://sdk.play.date/2.1.1/Inside%20Playdate.html#_what_is_playdate)
+
+  <p align="left"><img src="images/c_icon.png" alt="c icon" width="40" height="40"></p>
+
+  - **Title**: Inside Playdate
+  - **Description**: The official reference documentation for programming Playdate games.
+  - **Creator**: Panic Inc
+  - **Link**: [Inside Playdate](https://sdk.play.date/2.1.1/Inside%20Playdate%20with%20C.html)
 
 - <h2 style="color:#FFC500;">Setting up your development environment</h2>
 
-  - ![Language](image-link-here)
-  - **Description**: A tutorial for creating your first simple game on Playdate.
-  - **Link**: [First Game Tutorial](link-here)
+  **Title**: Getting Started with Playdate Game Development in 2023
+  
+  **Platform**: Windows
+  - **Description**: In this video, I'll be going over what making games is like for the Playdate and how to setup a Playdate SDK game development environment on Windows using Visual Studio Code. This video is an update to a previous video I've made called "Getting Started with the Playdate SDK: Setup and Basics".
+  - **Creator**: [SquidGod](https://squidgod.dev/)
+  - **Link**: [First Game Tutorial](https://www.youtube.com/watch?v=ZPcfC98JogQ&t=289s)
 
 - <h2 style="color:#FFC500;">Basics of Playdate SDK</h2>
 
-  - ![Language](image-link-here)
+  - **Creator**:
   - **Description**: A tutorial for creating your first simple game on Playdate.
   - **Link**: [First Game Tutorial](link-here)
 
 
 ## Tutorials
-### Pulp Tutorials
+<p align="left"><img src="images/pulp_icon.png" alt="pulp icon" width="80" height="80"></p> 
+
+- <h2 class=playdate-yellow>Title</h2>
+
+  - **Title**: PulpScript: A Beginner's Guide
+  - **Description**: Are you learning to use Pulp for the Playdate but are struggling to wrap your head around PulpScript? I go through the basics of PulpScript in this beginner's guide tutorial, from how PulpScript interacts with the rest of Pulp to programming basics.
+  - **Creator**: [SquidGod](https://squidgod.dev/)
+  - **Link**: [YouTube](https://www.youtube.com/watch?v=r5GnCjsAqeQ)
+
+<p align="left"><img src="images/lua_icon.png" alt="lua icon" width="80" height="80"></p> 
+
 - <h2 class=playdate-yellow>Title</h2>
 
   - ![Language](image-link-here)
   - **Description**: A tutorial for creating your first simple game on Playdate.
   - **Link**: [First Game Tutorial](link-here)
 
-### Lua Tutorials
-- <h2 class=playdate-yellow>Title</h2>
+<p align="left"><img src="images/c_icon.png" alt="c icon" width="80" height="80"></p> 
 
-  - ![Language](image-link-here)
-  - **Description**: A tutorial for creating your first simple game on Playdate.
-  - **Link**: [First Game Tutorial](link-here)
-
-### C Tutorials
 - <h2 class=playdate-yellow>Title</h2>
 
   - ![Language](image-link-here)
