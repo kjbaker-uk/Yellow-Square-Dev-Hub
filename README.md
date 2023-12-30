@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="images/logo.png" alt="Your Logo" width="200" height="200">
+  <img src="images/logo.png" alt="Your Logo" width="400" height="400">
 </p>
 
-<h2 align="left" style="color:#FFC500;">About This Repository</h2>
+<h2 align="left" style="color:#FFC500;">About The Dev Hub</h2>
 A handpicked collection of the best tools, tutorials, and libraries for Playdate game development. Aimed at simplifying and enhancing the development process for creators at all levels.
 
 <h2 align="left" style="color:#FFC500;">Table of Contents</h2>
