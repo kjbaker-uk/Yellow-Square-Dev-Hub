@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/logo.png" alt="Your Logo" width="400" height="400">
+  <img src="git_images/logo.png" alt="Your Logo" width="400" height="400">
 </p>
 
 <h2 align="left" style="color:#FFC500;">About The Dev Hub</h2>
@@ -16,6 +16,7 @@ A handpicked collection of the best tools, tutorials, and libraries for Playdate
 - [Libraries](#libraries)
 - [Tools and Utilities](#tools-and-utilities)
 - [Sample Projects](#sample-projects)
+- [Asset Vault](#asset-vault)
 - [Community Events](#community-events)
 - [Updates and News](#updates-and-news)
 - [Contributing](#contributing)
@@ -30,21 +31,21 @@ A handpicked collection of the best tools, tutorials, and libraries for Playdate
   - **Url**: [Designing for Playdate](https://sdk.play.date/2.1.1/Designing%20for%20Playdate.html)
 
 
-  <p align="left"><img src="images/lua_icon.png" alt="lua icon" width="40" height="40"></p>
+  <p align="left"><img src="git_images/lua_icon.png" alt="lua icon" width="40" height="40"></p>
 
   **Title**: Inside Playdate
   - **Description**: The official reference documentation for programming Playdate games.
   - **Creator**: Panic Inc
   - **Url**: [Inside Playdate](https://sdk.play.date/2.1.1/Inside%20Playdate.html#_what_is_playdate)
 
-  <p align="left"><img src="images/c_icon.png" alt="c icon" width="40" height="40"></p>
+  <p align="left"><img src="git_images/c_icon.png" alt="c icon" width="40" height="40"></p>
 
   **Title**: Inside Playdate
   - **Description**: The official reference documentation for programming Playdate games.
   - **Creator**: Panic Inc
   - **Link**: [Inside Playdate](https://sdk.play.date/2.1.1/Inside%20Playdate%20with%20C.html)
 
-  <p align="left"><img src="images/pulp_icon.png" alt="pulp icon" width="40" height="40"></p>
+  <p align="left"><img src="git_images/pulp_icon.png" alt="pulp icon" width="40" height="40"></p>
 
   **Title**: PulpScript
   - **Description**: PulpScript is a friendly scripting language that allows you to add interactivity to your Pulp games. Its syntax is terse but powerful.
@@ -70,7 +71,7 @@ A handpicked collection of the best tools, tutorials, and libraries for Playdate
 
 
 ## Tutorials
-  <p align="left"><img src="images/lua_icon.png" alt="lua icon" width="40" height="40"></p> 
+  <p align="left"><img src="git_images/lua_icon.png" alt="lua icon" width="40" height="40"></p> 
 
   **Title**: Learn to Code in Lua for Playdate Game Dev! Part 1
   - **Description**: Want to learn how to make games for the Playdate, but don't know how to program? No worries - in this video I'll go over basic programming concepts for complete beginners like variables, operators, and functions. I'll be teaching Lua, one of the languages you can use with the Playdate SDK. This is for people who want to use the Playdate SDK, and is not a guide for Pulp. If you want to learn Pulp, I have some videos for that on my channel as well.
@@ -92,14 +93,14 @@ A handpicked collection of the best tools, tutorials, and libraries for Playdate
   - **YouTube**: [YouTube](https://www.youtube.com/watch?v=7GbUxjE9rRM&t=609s)
 
 
-  <p align="left"><img src="images/c_icon.png" alt="c icon" width="40" height="40"></p> 
+  <p align="left"><img src="git_images/c_icon.png" alt="c icon" width="40" height="40"></p> 
 
   **Title**: PulpScript: A Beginner's Guide
   - **Description**: Are you learning to use Pulp for the Playdate but are struggling to wrap your head around PulpScript? I go through the basics of PulpScript in this beginner's guide tutorial, from how PulpScript interacts with the rest of Pulp to programming basics.
   - **Creator**: [SquidGod](https://squidgod.dev/)
   - **YouTube**: [YouTube](https://www.youtube.com/watch?v=r5GnCjsAqeQ)
 
-  <p align="left"><img src="images/pulp_icon.png" alt="pulp icon" width="40" height="40"></p> 
+  <p align="left"><img src="git_images/pulp_icon.png" alt="pulp icon" width="40" height="40"></p> 
 
   **Title**: PulpScript: A Beginner's Guide
   - **Description**: Are you learning to use Pulp for the Playdate but are struggling to wrap your head around PulpScript? I go through the basics of PulpScript in this beginner's guide tutorial, from how PulpScript interacts with the rest of Pulp to programming basics.
@@ -173,6 +174,16 @@ A handpicked collection of the best tools, tutorials, and libraries for Playdate
   - **Description**: A tutorial for creating your first simple game on Playdate.
   - **YouTube**: [First Game Tutorial](link-here)
 
+## Asset Vault
+I have started an asset vault to hold all of my surplus assets that may be of use to someone else.
+Please feel free to add to these and change the folder structure if you feel it could be layed out better.
+I have included items such as;
+
+ - Music
+ - SFX
+ - Sprites
+ - UI - Buttons / Icons etc
+
 ## Updates and News
 - <h2 class=playdate-yellow>Title</h2>
 
@@ -196,7 +207,7 @@ I welcome contributions! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for deta
 <h2 align="left" class= playdate-yellow>✉️ Contact</h1>
 
 <p align="left">
-  <img src="images/avatar.png" alt="avatar" width="60" height="60" >
+  <img src="git_images/avatar.png" alt="avatar" width="60" height="60" >
 </p>
 
 [Keith Baker](https://github.com/kjbaker-uk)
