@@ -123,12 +123,36 @@ A handpicked collection of the best tools, tutorials, and libraries for Playdate
 
 
 ## Libraries
-### Graphics Libraries
-- <h2 class=playdate-yellow>Title</h2>
+### Game Engine Libraries
+- <h2 class=playdate-yellow>Noble Engine</h2>
 
-  - ![Language](image-link-here)
-  - **Description**: A tutorial for creating your first simple game on Playdate.
-  - **YouTube**: [First Game Tutorial](link-here)
+  - **Description**: A li'l game engine for Playdate.
+  - **Creator**: [Noble Robot](https://github.com/NobleRobot)
+  - **GitHub**: [Noble Engine](https://github.com/NobleRobot/NobleEngine)
+
+  ---
+
+  - **Description**: Noble Engine Example Project. This is a documented example project that shows how to use the Noble Engine, along with a handful of libraries.
+  - **Creator**: [Jesse (GammaGames)](https://github.com/GammaGames)
+  - **GitHub**: [Gamma Games](https://github.com/GammaGames/NobleEngine-Example-Project)
+
+- <h2 class=playdate-yellow>Mini3D+</h2>
+
+  - **Description**: Enhanced 3D engine for the Panic Playdate. Based on the mini3d library provided in the examples.
+  - **Creator**: [nstbayless](https://github.com/nstbayless)
+  - **GitHub**: [Mini3D+](https://github.com/nstbayless/mini3d-plus)
+
+- <h2 class=playdate-yellow>Taxman Engine</h2>
+
+  - **Description**: Taxman is a 2D Game Engine designed originally for the Playdate console. However, it is not      platform-dependent.The engine is written in C for high portability and speed in small-scale devices. No optimisation has been done, as the target device is not yet available for purchase.
+  - **Creator**: [Jussi Enroos (McDevon)](https://github.com/nstbayless)
+  - **GitHub**: [Taxman Engine](https://github.com/McDevon)
+
+- <h2 class=playdate-yellow>Matter Physics Engine</h2>
+
+  - **Description**:Matter Physics Engine for Panic Playdate, written in Lua.
+  - **Creator**: [ivansergeev (Ivan Sergeev)](https://github.com/ivansergeev)
+  - **GitHub**: [Matter Physics Engine](https://github.com/ivansergeev/matter-lua)
 
 ### Audio Libraries
 - <h2 class=playdate-yellow>Title</h2>
@@ -136,6 +160,13 @@ A handpicked collection of the best tools, tutorials, and libraries for Playdate
   - ![Language](image-link-here)
   - **Description**: A tutorial for creating your first simple game on Playdate.
   - **YouTube**: [First Game Tutorial](link-here)
+
+### Sprite Libraries
+- <h2 class=playdate-yellow>Animated Sprite</h2>
+
+  - **Description**: Animated sprites library for the PlayDate.
+  - **Creator**: [Whitebrim](https://github.com/Whitebrim)
+  - **GitHub**: [Animated Sprite](https://github.com/Whitebrim/AnimatedSprite)
 
 ### Utility Libraries
 - <h2 class=playdate-yellow>Title</h2>
@@ -160,11 +191,23 @@ A handpicked collection of the best tools, tutorials, and libraries for Playdate
   - **YouTube**: [First Game Tutorial](link-here)
 
 ### Debugging Tools
-- <h2 class=playdate-yellow>Title</h2>
+- <h2 class=playdate-yellow>Acetate</h2>
 
-  - ![Language](image-link-here)
-  - **Description**: A tutorial for creating your first simple game on Playdate.
-  - **YouTube**: [First Game Tutorial](link-here)
+  - **Description**: A visual debugging suite for Playdate.
+  - **Creator**: [ebeneliason (Eben Eliason)](https://github.com/ivansergeev)
+  - **GitHub**: [Acetate](https://github.com/ebeneliason)
+
+- <h2 class=playdate-yellow>Playdate Debug VS Code Extension</h2>
+
+  - **Description**: Unofficial Playdate debug extension for Visual Studio Code on macOS, Windows and Ubuntu.
+  - **Creator**: [midouest](https://github.com/midouest)
+  - **GitHub**: [Playdate Debug](https://github.com/midouest/vscode-playdate-debug)
+
+- <h2 class=playdate-yellow>pdbug</h2>
+
+  - **Description**: Debug overlay utility for Lua-based Playdate games.
+  - **Creator**: [jaames](https://github.com/jaames)
+  - **GitHub**: [Playdate Debug](https://github.com/jaames/pdbug)
 
 ## Sample Projects
 ### Simple Games
