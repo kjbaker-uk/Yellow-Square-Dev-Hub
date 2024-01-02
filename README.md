@@ -124,6 +124,9 @@ A handpicked collection of the best tools, tutorials, and libraries for Playdate
 
 ## Libraries
 ### Game Engine Libraries
+
+<p align="left"><img src="git_images/lua_icon.png" alt="lua icon" width="40" height="40"></p> 
+
 - <h2 class=playdate-yellow>Noble Engine</h2>
 
   - **Description**: A li'l game engine for Playdate.
@@ -142,17 +145,19 @@ A handpicked collection of the best tools, tutorials, and libraries for Playdate
   - **Creator**: [nstbayless](https://github.com/nstbayless)
   - **GitHub**: [Mini3D+](https://github.com/nstbayless/mini3d-plus)
 
-- <h2 class=playdate-yellow>Taxman Engine</h2>
-
-  - **Description**: Taxman is a 2D Game Engine designed originally for the Playdate console. However, it is not      platform-dependent.The engine is written in C for high portability and speed in small-scale devices. No optimisation has been done, as the target device is not yet available for purchase.
-  - **Creator**: [Jussi Enroos (McDevon)](https://github.com/nstbayless)
-  - **GitHub**: [Taxman Engine](https://github.com/McDevon)
-
 - <h2 class=playdate-yellow>Matter Physics Engine</h2>
 
   - **Description**:Matter Physics Engine for Panic Playdate, written in Lua.
   - **Creator**: [ivansergeev (Ivan Sergeev)](https://github.com/ivansergeev)
   - **GitHub**: [Matter Physics Engine](https://github.com/ivansergeev/matter-lua)
+
+<p align="left"><img src="git_images/c_icon.png" alt="c icon" width="40" height="40"></p>
+
+- <h2 class=playdate-yellow>Taxman Engine</h2>
+
+  - **Description**: Taxman is a 2D Game Engine designed originally for the Playdate console. However, it is not      platform-dependent.The engine is written in C for high portability and speed in small-scale devices. No optimisation has been done, as the target device is not yet available for purchase.
+  - **Creator**: [Jussi Enroos (McDevon)](https://github.com/nstbayless)
+  - **GitHub**: [Taxman Engine](https://github.com/McDevon)
 
 ### Audio Libraries
 - <h2 class=playdate-yellow>Title</h2>
